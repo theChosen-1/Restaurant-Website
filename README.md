@@ -4,7 +4,7 @@ A restaurant landing page built as part of [The Odin Project](https://www.theodi
 
 ## Live Demo
 
-[View Live Site](https://thechosen-1.github.io/Restaurant-Page/)
+[View Live Site](https://thechosen-1.github.io/Restaurant-Website/)
 
 ## About
 
@@ -35,7 +35,7 @@ This project is a single-page restaurant website for "Zaiqa" - featuring authent
 
 ```bash
 # Clone the repository
-git clone https://github.com/theChosen-1/Restaurant-Page.git
+git clone https://github.com/theChosen-1/Restaurant-Website.git
 
 # Install dependencies
 npm install
