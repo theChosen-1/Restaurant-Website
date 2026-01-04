@@ -1,4 +1,4 @@
-# Restaurant Page
+# Restaurant Website
 
 A restaurant landing page built as part of [The Odin Project](https://www.theodinproject.com/) curriculum.
 
