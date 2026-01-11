@@ -35,7 +35,7 @@ This project is a single-page restaurant website for "Zaiqa" - featuring authent
 
 ```bash
 # Clone the repository
-git clone https://github.com/theChosen-1/Restaurant-Website.git
+git clone https://github.com/inshaal81/Restaurant-Website.git
 
 # Install dependencies
 npm install
